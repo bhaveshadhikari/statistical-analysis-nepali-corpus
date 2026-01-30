@@ -2,6 +2,10 @@
 
 This project analyzes 200,000 Nepali news articles using statistical and probabilistic techniques to map how words relate to each other.
 
+### Repo Description:
+1. Noteboook : statistical-analysis-of-nepali-corpus.ipynb
+2. Semantic Network of Corpus Demo: corpus-net-output.gif
+![semantic net of corpus](corpus-net-output.gif)
 ### Brief Methodological Summary
 
 1.  **Data Preperation**:
